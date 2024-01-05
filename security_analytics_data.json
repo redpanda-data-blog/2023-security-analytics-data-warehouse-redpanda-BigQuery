@@ -1,0 +1,999 @@
+{"type": "network_log", "timestamp": "2023-11-06T19:53:23.845931", "source_ip": "249.170.99.186", "destination_ip": "20.253.128.13", "bytes_sent": 22191, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:39:23.845973", "source_ip": "107.26.28.120", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:51:23.845987", "user": "user68", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T10:49:23.845999", "source_ip": "133.144.195.198", "destination_ip": "185.214.254.88", "bytes_sent": 60207, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:18:23.846014", "source_ip": "102.68.247.149", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:10:23.846025", "user": "user48", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:52:23.846034", "source_ip": "193.180.123.28", "destination_ip": "147.172.174.11", "bytes_sent": 12618, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:05:23.846048", "source_ip": "32.242.41.76", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:37:23.846061", "user": "user14", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T10:33:23.846070", "source_ip": "176.79.50.132", "destination_ip": "207.75.239.101", "bytes_sent": 26820, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:04:23.846083", "source_ip": "23.196.53.92", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:11:23.846092", "user": "user40", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T08:26:23.846100", "source_ip": "27.149.20.145", "destination_ip": "140.10.190.85", "bytes_sent": 57047, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:39:23.846111", "source_ip": "18.170.82.5", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:36:23.846120", "user": "user20", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T09:40:23.846128", "source_ip": "13.157.153.243", "destination_ip": "190.177.94.243", "bytes_sent": 14248, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:42:23.846139", "source_ip": "205.0.70.12", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:10:23.846147", "user": "user15", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T17:26:23.846155", "source_ip": "196.158.112.241", "destination_ip": "132.241.85.137", "bytes_sent": 20777, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:44:23.846166", "source_ip": "137.172.167.198", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:12:23.846175", "user": "user41", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T00:48:23.846183", "source_ip": "171.90.135.110", "destination_ip": "72.40.111.213", "bytes_sent": 24624, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:56:23.846196", "source_ip": "63.67.94.0", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:58:23.846205", "user": "user52", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:34:23.846220", "source_ip": "9.74.107.97", "destination_ip": "208.153.67.74", "bytes_sent": 58075, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:06:23.846238", "source_ip": "137.76.75.225", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:27:23.846247", "user": "user64", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:52:23.846254", "source_ip": "177.165.86.78", "destination_ip": "169.210.216.107", "bytes_sent": 11561, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:12:23.846265", "source_ip": "241.224.71.13", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:44:23.846273", "user": "user4", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:50:23.846279", "source_ip": "159.29.218.129", "destination_ip": "253.124.177.224", "bytes_sent": 21006, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:59:23.846290", "source_ip": "12.72.123.98", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:33:23.846298", "user": "user70", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:50:23.846305", "source_ip": "54.65.183.199", "destination_ip": "77.148.162.90", "bytes_sent": 61315, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:52:23.846316", "source_ip": "230.75.90.96", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:06:23.846324", "user": "user90", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:06:23.846331", "source_ip": "98.194.204.251", "destination_ip": "47.219.23.155", "bytes_sent": 30610, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:35:23.846345", "source_ip": "201.86.169.166", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:33:23.846354", "user": "user56", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:38:23.846360", "source_ip": "95.37.250.204", "destination_ip": "79.158.68.106", "bytes_sent": 28620, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:24:23.846371", "source_ip": "147.0.177.55", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:06:23.846379", "user": "user45", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T11:52:23.846386", "source_ip": "28.151.50.212", "destination_ip": "241.154.249.5", "bytes_sent": 33614, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:54:23.846396", "source_ip": "209.235.204.4", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:55:23.846404", "user": "user21", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:27:23.846411", "source_ip": "67.0.34.4", "destination_ip": "241.208.116.182", "bytes_sent": 14166, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:30:23.846422", "source_ip": "238.182.30.47", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:22:23.846430", "user": "user37", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T01:55:23.846437", "source_ip": "18.229.62.34", "destination_ip": "182.103.228.173", "bytes_sent": 26000, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:13:23.846447", "source_ip": "181.5.161.218", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:32:23.846456", "user": "user63", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T17:53:23.846462", "source_ip": "170.36.83.64", "destination_ip": "129.109.40.89", "bytes_sent": 6713, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:09:23.846472", "source_ip": "224.119.105.189", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:44:23.846480", "user": "user9", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:48:23.846524", "source_ip": "239.247.7.103", "destination_ip": "170.49.126.17", "bytes_sent": 2764, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:06:23.846545", "source_ip": "49.8.131.130", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:50:23.846558", "user": "user6", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:09:23.846567", "source_ip": "200.159.119.46", "destination_ip": "35.136.140.78", "bytes_sent": 21632, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:59:23.846582", "source_ip": "157.170.0.2", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:31:23.846593", "user": "user53", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T10:31:23.846603", "source_ip": "182.202.191.3", "destination_ip": "168.214.236.131", "bytes_sent": 55965, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:32:23.846619", "source_ip": "10.165.139.204", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:32:23.846631", "user": "user12", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:53:23.846640", "source_ip": "156.67.219.252", "destination_ip": "145.174.171.178", "bytes_sent": 28860, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:16:23.846655", "source_ip": "20.241.67.93", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:17:23.846670", "user": "user91", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:57:23.846683", "source_ip": "180.207.41.93", "destination_ip": "154.120.42.120", "bytes_sent": 5257, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:43:23.846698", "source_ip": "18.139.8.95", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:08:23.846709", "user": "user51", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:36:23.846720", "source_ip": "198.113.92.145", "destination_ip": "247.152.73.216", "bytes_sent": 54257, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:38:23.846736", "source_ip": "185.205.172.5", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:57:23.846750", "user": "user55", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:20:23.846758", "source_ip": "122.67.107.21", "destination_ip": "201.220.10.63", "bytes_sent": 27538, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:14:23.846769", "source_ip": "247.213.29.80", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:03:23.846777", "user": "user95", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T14:20:23.846783", "source_ip": "178.174.165.34", "destination_ip": "241.204.122.129", "bytes_sent": 28585, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:56:23.846794", "source_ip": "67.193.222.46", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:35:23.846802", "user": "user100", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:53:23.846808", "source_ip": "230.152.243.34", "destination_ip": "106.230.191.13", "bytes_sent": 26366, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:57:23.846819", "source_ip": "24.249.184.90", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:40:23.846827", "user": "user37", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:59:23.846834", "source_ip": "102.243.208.59", "destination_ip": "32.127.176.230", "bytes_sent": 49589, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:36:23.846845", "source_ip": "105.253.215.237", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:57:23.846853", "user": "user75", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T10:55:23.846859", "source_ip": "1.45.132.39", "destination_ip": "204.3.175.66", "bytes_sent": 50031, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:31:23.846870", "source_ip": "25.124.104.227", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:14:23.846878", "user": "user78", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T01:31:23.846885", "source_ip": "162.84.60.103", "destination_ip": "39.167.231.70", "bytes_sent": 46301, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:32:23.846895", "source_ip": "15.5.184.152", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:00:23.846903", "user": "user87", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T10:16:23.846910", "source_ip": "181.41.191.37", "destination_ip": "132.210.90.20", "bytes_sent": 27819, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:05:23.846921", "source_ip": "70.8.160.3", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:44:23.846928", "user": "user15", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T02:28:23.846935", "source_ip": "101.71.66.12", "destination_ip": "230.211.246.3", "bytes_sent": 42270, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:03:23.846946", "source_ip": "218.89.90.121", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:44:23.846954", "user": "user89", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:23:23.846960", "source_ip": "129.8.167.229", "destination_ip": "95.124.246.232", "bytes_sent": 19788, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:30:23.846971", "source_ip": "217.240.132.123", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:21:23.846979", "user": "user42", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:36:23.846986", "source_ip": "40.115.24.81", "destination_ip": "74.52.108.47", "bytes_sent": 63200, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:52:23.846996", "source_ip": "63.152.32.219", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:04:23.847004", "user": "user9", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:56:23.847011", "source_ip": "234.94.250.57", "destination_ip": "32.57.191.116", "bytes_sent": 2154, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:10:23.847021", "source_ip": "45.18.23.188", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:38:23.847029", "user": "user16", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:11:23.847035", "source_ip": "149.109.214.156", "destination_ip": "114.252.5.0", "bytes_sent": 1082, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:20:23.847046", "source_ip": "162.173.86.212", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:36:23.847080", "user": "user14", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:29:23.847090", "source_ip": "38.95.198.20", "destination_ip": "41.76.236.134", "bytes_sent": 18679, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:01:23.847101", "source_ip": "18.216.209.80", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:54:23.847109", "user": "user56", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:18:23.847116", "source_ip": "64.241.246.158", "destination_ip": "149.140.4.253", "bytes_sent": 27773, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:03:23.847126", "source_ip": "18.17.211.113", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:29:23.847133", "user": "user36", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:36:23.847140", "source_ip": "220.224.224.97", "destination_ip": "19.138.44.69", "bytes_sent": 51427, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:03:23.847150", "source_ip": "41.6.159.33", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:51:23.847158", "user": "user21", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:48:23.847165", "source_ip": "31.251.28.149", "destination_ip": "102.89.213.26", "bytes_sent": 51820, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:31:23.847175", "source_ip": "74.208.108.23", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:42:23.847183", "user": "user93", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T12:26:23.847190", "source_ip": "17.23.153.111", "destination_ip": "94.85.184.229", "bytes_sent": 61311, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:48:23.847200", "source_ip": "166.32.35.223", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:18:23.847208", "user": "user31", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:46:23.847214", "source_ip": "183.204.200.196", "destination_ip": "144.241.198.232", "bytes_sent": 15325, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:55:23.847224", "source_ip": "242.157.68.69", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:26:23.847232", "user": "user71", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:42:23.847238", "source_ip": "197.216.250.80", "destination_ip": "52.212.68.44", "bytes_sent": 57761, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:41:23.847249", "source_ip": "56.37.28.207", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:06:23.847257", "user": "user36", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:16:23.847264", "source_ip": "211.179.161.106", "destination_ip": "190.53.6.205", "bytes_sent": 17709, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:42:23.847274", "source_ip": "47.122.224.28", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:28:23.847282", "user": "user100", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T01:40:23.847288", "source_ip": "18.37.65.182", "destination_ip": "32.201.68.27", "bytes_sent": 34720, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:21:23.847298", "source_ip": "44.171.222.228", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:25:23.847306", "user": "user35", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:39:23.847313", "source_ip": "172.202.120.211", "destination_ip": "239.153.33.154", "bytes_sent": 34291, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:01:23.847324", "source_ip": "53.9.159.18", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:34:23.847332", "user": "user44", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:09:23.847338", "source_ip": "170.190.220.230", "destination_ip": "82.78.23.153", "bytes_sent": 63506, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:09:23.847349", "source_ip": "37.73.166.143", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:01:23.847356", "user": "user22", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T15:16:23.847363", "source_ip": "54.12.120.58", "destination_ip": "139.176.204.3", "bytes_sent": 20019, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:41:23.847373", "source_ip": "59.177.192.131", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:55:23.847381", "user": "user32", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T13:47:23.847388", "source_ip": "236.95.224.39", "destination_ip": "98.33.214.125", "bytes_sent": 5472, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:49:23.847398", "source_ip": "190.171.22.122", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:48:23.847406", "user": "user100", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T13:38:23.847413", "source_ip": "122.230.161.231", "destination_ip": "212.217.0.180", "bytes_sent": 58859, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:59:23.847423", "source_ip": "74.92.249.133", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:42:23.847431", "user": "user21", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:26:23.847437", "source_ip": "116.112.95.186", "destination_ip": "226.195.128.218", "bytes_sent": 31683, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:04:23.847448", "source_ip": "100.214.156.143", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:54:23.847455", "user": "user33", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T09:02:23.847462", "source_ip": "38.81.65.203", "destination_ip": "214.19.136.69", "bytes_sent": 768, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:27:23.847472", "source_ip": "7.153.236.167", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:23:23.847480", "user": "user13", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:00:23.847486", "source_ip": "181.149.103.27", "destination_ip": "215.190.224.206", "bytes_sent": 36812, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:52:23.847496", "source_ip": "20.39.124.4", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:38:23.847504", "user": "user88", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:04:23.847511", "source_ip": "87.77.173.92", "destination_ip": "163.66.10.232", "bytes_sent": 52212, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:53:23.847538", "source_ip": "84.48.173.67", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:51:23.847550", "user": "user63", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:33:23.847557", "source_ip": "254.53.106.68", "destination_ip": "45.81.191.5", "bytes_sent": 22668, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:51:23.847567", "source_ip": "141.252.198.35", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:48:23.847575", "user": "user65", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T06:26:23.847581", "source_ip": "3.224.155.124", "destination_ip": "136.194.147.49", "bytes_sent": 63535, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:28:23.847591", "source_ip": "118.60.203.7", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:01:23.847599", "user": "user61", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T08:02:23.847606", "source_ip": "56.134.10.233", "destination_ip": "134.156.200.116", "bytes_sent": 58278, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:12:23.847616", "source_ip": "27.113.7.20", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:44:23.847624", "user": "user75", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:26:23.847631", "source_ip": "208.236.112.140", "destination_ip": "66.114.147.247", "bytes_sent": 2868, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:45:23.847641", "source_ip": "82.175.84.227", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:38:23.847649", "user": "user46", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T12:59:23.847655", "source_ip": "18.80.243.122", "destination_ip": "10.241.128.149", "bytes_sent": 14074, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:22:23.847665", "source_ip": "223.15.215.96", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:31:23.847673", "user": "user88", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T11:55:23.847680", "source_ip": "181.148.136.223", "destination_ip": "198.156.55.65", "bytes_sent": 2538, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:29:23.847690", "source_ip": "89.65.75.165", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:47:23.847698", "user": "user44", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:05:23.847705", "source_ip": "218.149.71.41", "destination_ip": "201.96.253.44", "bytes_sent": 60695, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:53:23.847715", "source_ip": "239.113.204.139", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:40:23.847723", "user": "user16", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T21:55:23.847730", "source_ip": "69.207.178.1", "destination_ip": "244.78.1.138", "bytes_sent": 58441, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:46:23.847740", "source_ip": "18.98.155.244", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:03:23.847747", "user": "user18", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T21:28:23.847754", "source_ip": "123.30.23.83", "destination_ip": "207.158.255.88", "bytes_sent": 30367, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:31:23.847764", "source_ip": "119.88.188.110", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:29:23.847772", "user": "user42", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T21:41:23.847779", "source_ip": "237.68.41.173", "destination_ip": "1.40.21.27", "bytes_sent": 47082, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:55:23.847790", "source_ip": "25.7.165.97", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:31:23.847798", "user": "user48", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T02:52:23.847804", "source_ip": "57.128.0.23", "destination_ip": "221.101.236.7", "bytes_sent": 34747, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:15:23.847815", "source_ip": "115.56.57.146", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:13:23.847822", "user": "user64", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T07:13:23.847829", "source_ip": "31.29.195.177", "destination_ip": "235.194.45.214", "bytes_sent": 30373, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:21:23.847839", "source_ip": "244.197.186.2", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:33:23.847847", "user": "user75", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:45:23.847853", "source_ip": "3.167.107.100", "destination_ip": "227.237.195.72", "bytes_sent": 37092, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:47:23.847864", "source_ip": "84.88.77.116", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:33:23.847872", "user": "user42", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:10:23.847878", "source_ip": "205.156.162.249", "destination_ip": "141.111.0.25", "bytes_sent": 59749, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:52:23.847888", "source_ip": "127.91.168.69", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:02:23.847896", "user": "user22", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:01:23.847903", "source_ip": "134.240.97.217", "destination_ip": "136.203.116.83", "bytes_sent": 48171, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:24:23.847913", "source_ip": "110.201.76.240", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:03:23.847921", "user": "user11", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:31:23.847927", "source_ip": "231.220.207.79", "destination_ip": "145.63.131.178", "bytes_sent": 35362, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:12:23.847937", "source_ip": "56.22.8.25", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:27:23.847945", "user": "user37", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T17:27:23.847951", "source_ip": "92.16.255.183", "destination_ip": "214.233.197.69", "bytes_sent": 15165, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:01:23.847961", "source_ip": "117.202.196.81", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:35:23.847969", "user": "user30", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:33:23.847993", "source_ip": "118.239.16.228", "destination_ip": "40.56.11.208", "bytes_sent": 64387, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:12:23.848007", "source_ip": "42.46.228.245", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:19:23.848015", "user": "user29", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:43:23.848022", "source_ip": "224.155.245.228", "destination_ip": "250.50.114.92", "bytes_sent": 20582, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:46:23.848032", "source_ip": "190.185.106.142", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:45:23.848040", "user": "user69", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:26:23.848046", "source_ip": "253.242.145.1", "destination_ip": "68.19.213.250", "bytes_sent": 14735, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:21:23.848056", "source_ip": "190.235.72.17", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:48:23.848064", "user": "user25", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:32:23.848071", "source_ip": "21.27.232.159", "destination_ip": "136.18.195.172", "bytes_sent": 53764, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:17:23.848081", "source_ip": "242.255.128.50", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:06:23.848088", "user": "user72", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:05:23.848095", "source_ip": "171.92.37.180", "destination_ip": "159.129.86.84", "bytes_sent": 43289, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:33:23.848105", "source_ip": "180.143.46.103", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:38:23.848113", "user": "user42", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:26:23.848120", "source_ip": "79.11.2.5", "destination_ip": "72.73.56.174", "bytes_sent": 49757, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:38:23.848131", "source_ip": "27.32.87.51", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:22:23.848139", "user": "user69", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:51:23.848145", "source_ip": "136.162.167.19", "destination_ip": "62.195.10.154", "bytes_sent": 23442, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:49:23.848155", "source_ip": "223.1.166.60", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:26:23.848163", "user": "user91", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T19:11:23.848170", "source_ip": "204.98.198.102", "destination_ip": "236.237.3.165", "bytes_sent": 54868, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:26:23.848180", "source_ip": "199.158.70.247", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:32:23.848188", "user": "user24", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:21:23.848194", "source_ip": "104.151.139.238", "destination_ip": "56.51.196.81", "bytes_sent": 15392, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:52:23.848204", "source_ip": "211.22.251.22", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:28:23.848212", "user": "user34", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:03:23.848218", "source_ip": "13.128.9.18", "destination_ip": "209.154.147.171", "bytes_sent": 47665, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:16:23.848229", "source_ip": "117.66.47.207", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:06:23.848237", "user": "user66", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:50:23.848244", "source_ip": "49.227.226.123", "destination_ip": "130.36.14.77", "bytes_sent": 28655, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:28:23.848254", "source_ip": "136.69.92.131", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:19:23.848262", "user": "user79", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:40:23.848268", "source_ip": "230.229.139.110", "destination_ip": "243.251.34.241", "bytes_sent": 33308, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:21:23.848279", "source_ip": "242.121.207.76", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:55:23.848286", "user": "user64", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:16:23.848293", "source_ip": "2.139.166.132", "destination_ip": "82.143.138.99", "bytes_sent": 58251, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:19:23.848303", "source_ip": "249.95.167.237", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:45:23.848311", "user": "user40", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:38:23.848317", "source_ip": "198.56.70.215", "destination_ip": "103.148.213.107", "bytes_sent": 1838, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:55:23.848328", "source_ip": "196.188.76.170", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:20:23.848336", "user": "user85", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:41:23.848343", "source_ip": "72.79.215.95", "destination_ip": "155.81.161.33", "bytes_sent": 18371, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:05:23.848353", "source_ip": "220.209.73.44", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:48:23.848360", "user": "user37", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:35:23.848367", "source_ip": "97.35.103.214", "destination_ip": "67.231.205.108", "bytes_sent": 56955, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:04:23.848377", "source_ip": "50.196.49.150", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:06:23.848385", "user": "user87", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T08:52:23.848391", "source_ip": "204.94.245.124", "destination_ip": "248.114.78.204", "bytes_sent": 19749, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:07:23.848402", "source_ip": "29.154.223.49", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:17:23.848409", "user": "user37", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:45:23.848416", "source_ip": "177.105.187.229", "destination_ip": "150.95.221.126", "bytes_sent": 4749, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:33:23.848426", "source_ip": "114.15.247.96", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:51:23.848450", "user": "user67", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:49:23.848460", "source_ip": "122.58.174.138", "destination_ip": "10.193.128.126", "bytes_sent": 40080, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:23:23.848471", "source_ip": "111.2.200.171", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:08:23.848479", "user": "user96", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:41:23.848485", "source_ip": "41.98.187.189", "destination_ip": "82.84.251.65", "bytes_sent": 38965, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:42:23.848495", "source_ip": "36.26.86.41", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:16:23.848503", "user": "user48", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T07:13:23.848510", "source_ip": "74.110.63.35", "destination_ip": "183.255.252.245", "bytes_sent": 26491, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:00:23.848520", "source_ip": "35.123.52.241", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:12:23.848529", "user": "user3", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:43:23.848536", "source_ip": "30.175.222.0", "destination_ip": "37.158.119.5", "bytes_sent": 25606, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:32:23.848546", "source_ip": "46.47.253.181", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:08:23.848554", "user": "user79", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:13:23.848560", "source_ip": "107.169.47.14", "destination_ip": "218.207.222.126", "bytes_sent": 26766, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:04:23.848571", "source_ip": "142.12.59.116", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:16:23.848579", "user": "user6", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:15:23.848585", "source_ip": "145.83.230.100", "destination_ip": "180.163.133.248", "bytes_sent": 2402, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:44:23.848595", "source_ip": "159.200.8.157", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:01:23.848603", "user": "user76", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:48:23.848610", "source_ip": "224.209.66.34", "destination_ip": "174.162.22.241", "bytes_sent": 42918, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:03:23.848620", "source_ip": "199.161.97.151", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:46:23.848627", "user": "user79", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T03:18:23.848634", "source_ip": "229.235.118.181", "destination_ip": "72.131.190.211", "bytes_sent": 55838, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:00:23.848644", "source_ip": "226.141.112.122", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:37:23.848652", "user": "user97", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:55:23.848659", "source_ip": "96.186.163.235", "destination_ip": "76.34.87.225", "bytes_sent": 50799, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:16:23.848668", "source_ip": "112.238.4.2", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:23:23.848676", "user": "user8", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:21:23.848682", "source_ip": "198.44.27.9", "destination_ip": "43.82.134.164", "bytes_sent": 9047, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:34:23.848692", "source_ip": "82.207.180.223", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:25:23.848700", "user": "user26", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:04:23.848707", "source_ip": "242.187.60.219", "destination_ip": "219.164.41.121", "bytes_sent": 28988, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:41:23.848717", "source_ip": "174.109.249.138", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:50:23.848725", "user": "user88", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T11:47:23.848731", "source_ip": "213.24.86.35", "destination_ip": "14.215.171.105", "bytes_sent": 4056, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:11:23.848741", "source_ip": "233.17.53.201", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:43:23.848749", "user": "user34", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:15:23.848756", "source_ip": "62.68.208.123", "destination_ip": "137.72.139.101", "bytes_sent": 3439, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:37:23.848766", "source_ip": "50.130.101.74", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:26:23.848774", "user": "user79", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T00:42:23.848780", "source_ip": "85.129.194.51", "destination_ip": "169.73.158.178", "bytes_sent": 28013, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:57:23.848790", "source_ip": "233.32.110.113", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:28:23.848798", "user": "user90", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:13:23.848804", "source_ip": "178.24.129.209", "destination_ip": "58.60.39.41", "bytes_sent": 17626, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:48:23.848814", "source_ip": "14.240.91.77", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:04:23.848822", "user": "user41", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:54:23.848829", "source_ip": "195.47.46.137", "destination_ip": "117.207.142.23", "bytes_sent": 17098, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:57:23.848839", "source_ip": "234.44.160.49", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:14:23.848846", "user": "user57", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:48:23.848853", "source_ip": "39.188.177.136", "destination_ip": "110.208.3.84", "bytes_sent": 52834, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:45:23.848863", "source_ip": "28.214.102.59", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:27:23.848871", "user": "user40", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:21:23.848878", "source_ip": "196.65.25.50", "destination_ip": "217.247.34.93", "bytes_sent": 23913, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:56:23.848905", "source_ip": "129.46.135.175", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:19:23.848916", "user": "user23", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:05:23.848923", "source_ip": "124.175.80.26", "destination_ip": "158.33.89.85", "bytes_sent": 21945, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:57:23.848934", "source_ip": "100.82.186.13", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:02:23.848942", "user": "user55", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:21:23.848948", "source_ip": "170.186.65.88", "destination_ip": "160.168.148.240", "bytes_sent": 54164, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:30:23.848959", "source_ip": "76.96.219.116", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:20:23.848966", "user": "user22", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:51:23.848973", "source_ip": "248.173.150.224", "destination_ip": "117.20.85.228", "bytes_sent": 54845, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:58:23.848983", "source_ip": "115.128.237.211", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:02:23.848991", "user": "user39", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:45:23.848998", "source_ip": "178.54.49.108", "destination_ip": "243.138.15.3", "bytes_sent": 404, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:05:23.849008", "source_ip": "204.8.212.118", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:45:23.849016", "user": "user21", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:44:23.849023", "source_ip": "223.174.68.16", "destination_ip": "131.241.160.143", "bytes_sent": 21095, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:01:23.849033", "source_ip": "20.102.55.59", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:15:23.849041", "user": "user92", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T14:06:23.849047", "source_ip": "2.114.8.236", "destination_ip": "232.165.29.6", "bytes_sent": 21724, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:28:23.849057", "source_ip": "37.222.196.31", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:39:23.849065", "user": "user48", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T02:22:23.849072", "source_ip": "94.202.164.35", "destination_ip": "28.133.9.187", "bytes_sent": 26480, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:05:23.849082", "source_ip": "184.161.125.16", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:39:23.849090", "user": "user15", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:48:23.849097", "source_ip": "40.173.104.145", "destination_ip": "117.23.12.122", "bytes_sent": 52116, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:51:23.849108", "source_ip": "170.122.30.47", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:13:23.849115", "user": "user52", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:13:23.849122", "source_ip": "38.26.21.185", "destination_ip": "166.49.224.75", "bytes_sent": 50751, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:16:23.849132", "source_ip": "24.118.78.225", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:25:23.849140", "user": "user40", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:52:23.849147", "source_ip": "164.243.149.135", "destination_ip": "11.62.165.119", "bytes_sent": 26180, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:42:23.849157", "source_ip": "179.131.141.56", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:14:23.849165", "user": "user62", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:05:23.849172", "source_ip": "191.237.194.164", "destination_ip": "185.171.50.113", "bytes_sent": 17621, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:52:23.849182", "source_ip": "14.155.71.126", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:07:23.849190", "user": "user9", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:25:23.849197", "source_ip": "31.154.70.225", "destination_ip": "239.180.218.44", "bytes_sent": 557, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:08:23.849208", "source_ip": "66.141.96.245", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:19:23.849216", "user": "user48", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:11:23.849222", "source_ip": "143.136.17.165", "destination_ip": "56.31.149.232", "bytes_sent": 48593, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:11:23.849232", "source_ip": "58.145.22.161", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:56:23.849240", "user": "user100", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:39:23.849247", "source_ip": "247.68.136.146", "destination_ip": "243.41.6.6", "bytes_sent": 32647, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:23:23.849257", "source_ip": "124.98.205.246", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:17:23.849265", "user": "user9", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:32:23.849271", "source_ip": "203.151.70.48", "destination_ip": "136.222.85.158", "bytes_sent": 21187, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:24:23.849281", "source_ip": "246.90.111.161", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:34:23.849289", "user": "user57", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T08:56:23.849296", "source_ip": "187.90.136.248", "destination_ip": "66.165.100.197", "bytes_sent": 30837, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:18:23.849307", "source_ip": "5.136.161.179", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:59:23.849315", "user": "user25", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:02:23.849321", "source_ip": "4.168.167.39", "destination_ip": "35.244.26.97", "bytes_sent": 62017, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:11:23.849332", "source_ip": "45.236.203.2", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:37:23.849340", "user": "user41", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:52:23.849365", "source_ip": "162.138.115.177", "destination_ip": "53.26.154.28", "bytes_sent": 53109, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:19:23.849378", "source_ip": "90.143.95.198", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:41:23.849387", "user": "user79", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:07:23.849393", "source_ip": "39.212.248.253", "destination_ip": "139.120.146.60", "bytes_sent": 42636, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:26:23.849403", "source_ip": "169.61.225.233", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:13:23.849411", "user": "user77", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:35:23.849417", "source_ip": "139.94.58.190", "destination_ip": "240.134.149.145", "bytes_sent": 9251, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:47:23.849427", "source_ip": "45.29.104.213", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:55:23.849435", "user": "user71", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:33:23.849442", "source_ip": "73.242.47.44", "destination_ip": "2.107.203.133", "bytes_sent": 31494, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:09:23.849452", "source_ip": "192.184.91.157", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:28:23.849460", "user": "user94", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:15:23.849466", "source_ip": "104.165.236.152", "destination_ip": "212.105.13.15", "bytes_sent": 36331, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:51:23.849476", "source_ip": "225.129.189.21", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:57:23.849484", "user": "user38", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:48:23.849491", "source_ip": "156.233.100.205", "destination_ip": "227.62.189.71", "bytes_sent": 9194, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:52:23.849500", "source_ip": "134.176.208.140", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:27:23.849508", "user": "user10", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:24:23.849514", "source_ip": "249.72.108.205", "destination_ip": "59.65.17.197", "bytes_sent": 29354, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:55:23.849525", "source_ip": "200.252.114.131", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:40:23.849532", "user": "user20", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:56:23.849539", "source_ip": "24.165.100.186", "destination_ip": "173.5.202.146", "bytes_sent": 23811, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:48:23.849549", "source_ip": "236.64.30.220", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:04:23.849557", "user": "user36", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:35:23.849564", "source_ip": "90.185.27.231", "destination_ip": "129.15.146.37", "bytes_sent": 45027, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:37:23.849574", "source_ip": "201.84.217.232", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:50:23.849582", "user": "user11", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:28:23.849588", "source_ip": "249.80.44.71", "destination_ip": "137.226.122.73", "bytes_sent": 34834, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:38:23.849598", "source_ip": "21.60.41.174", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:44:23.849606", "user": "user78", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T13:55:23.849612", "source_ip": "50.174.75.21", "destination_ip": "155.245.47.182", "bytes_sent": 39520, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:08:23.849622", "source_ip": "138.178.218.5", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:22:23.849630", "user": "user66", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:19:23.849636", "source_ip": "66.254.191.19", "destination_ip": "222.57.70.35", "bytes_sent": 7296, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:15:23.849647", "source_ip": "208.88.244.45", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:48:23.849655", "user": "user97", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:27:23.849661", "source_ip": "92.253.23.223", "destination_ip": "13.236.126.2", "bytes_sent": 22531, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:57:23.849671", "source_ip": "153.21.216.98", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:49:23.849679", "user": "user37", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T14:19:23.849685", "source_ip": "80.53.9.163", "destination_ip": "154.172.97.163", "bytes_sent": 8889, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:31:23.849696", "source_ip": "171.218.92.13", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:03:23.849703", "user": "user20", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:55:23.849710", "source_ip": "85.253.205.12", "destination_ip": "203.223.35.239", "bytes_sent": 36131, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:21:23.849721", "source_ip": "200.232.72.178", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:05:23.849729", "user": "user80", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T06:28:23.849735", "source_ip": "116.164.36.227", "destination_ip": "135.39.207.116", "bytes_sent": 54961, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:56:23.849745", "source_ip": "42.149.239.197", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:23:23.849753", "user": "user1", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:13:23.849760", "source_ip": "214.68.184.169", "destination_ip": "170.243.32.24", "bytes_sent": 11586, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:44:23.849770", "source_ip": "13.216.145.53", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:21:23.849778", "user": "user91", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T01:35:23.849784", "source_ip": "210.230.70.74", "destination_ip": "104.46.65.73", "bytes_sent": 32129, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:04:23.849795", "source_ip": "59.143.157.181", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:37:23.849819", "user": "user9", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:45:23.849829", "source_ip": "123.66.159.109", "destination_ip": "12.70.205.219", "bytes_sent": 12571, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T05:09:23.849839", "source_ip": "71.254.195.93", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:22:23.849848", "user": "user83", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:56:23.849854", "source_ip": "106.24.43.71", "destination_ip": "60.140.173.254", "bytes_sent": 11845, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:37:23.849864", "source_ip": "153.206.243.4", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:03:23.849872", "user": "user89", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:24:23.849879", "source_ip": "105.160.57.177", "destination_ip": "203.242.132.140", "bytes_sent": 45358, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:55:23.849889", "source_ip": "210.139.190.241", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:35:23.849897", "user": "user67", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:17:23.849903", "source_ip": "206.16.79.66", "destination_ip": "115.149.238.164", "bytes_sent": 2215, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:08:23.849914", "source_ip": "76.151.5.18", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:55:23.849922", "user": "user78", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:36:23.849928", "source_ip": "31.118.210.196", "destination_ip": "176.3.35.138", "bytes_sent": 54365, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:32:23.849938", "source_ip": "216.124.145.197", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:41:23.849945", "user": "user62", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:20:23.849952", "source_ip": "89.113.114.154", "destination_ip": "101.195.174.186", "bytes_sent": 63767, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:38:23.849962", "source_ip": "250.197.66.45", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:26:23.849970", "user": "user19", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:14:23.849976", "source_ip": "59.27.70.192", "destination_ip": "119.34.127.40", "bytes_sent": 59468, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:29:23.849987", "source_ip": "58.15.127.250", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:37:23.849994", "user": "user50", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T15:22:23.850001", "source_ip": "233.28.186.61", "destination_ip": "58.115.85.158", "bytes_sent": 63892, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:53:23.850011", "source_ip": "121.70.158.143", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:19:23.850019", "user": "user42", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T19:29:23.850025", "source_ip": "62.224.69.194", "destination_ip": "244.102.119.226", "bytes_sent": 55055, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:38:23.850035", "source_ip": "40.173.74.68", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:43:23.850043", "user": "user6", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:53:23.850049", "source_ip": "24.43.255.163", "destination_ip": "182.170.153.235", "bytes_sent": 4873, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:39:23.850059", "source_ip": "17.32.13.23", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:30:23.850067", "user": "user93", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:18:23.850074", "source_ip": "102.29.8.16", "destination_ip": "104.76.87.139", "bytes_sent": 10724, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:03:23.850084", "source_ip": "178.163.208.241", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:39:23.850092", "user": "user37", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:52:23.850098", "source_ip": "227.109.178.60", "destination_ip": "192.96.31.231", "bytes_sent": 43646, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:39:23.850108", "source_ip": "237.88.88.149", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:20:23.850117", "user": "user44", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:26:23.850123", "source_ip": "121.246.182.51", "destination_ip": "88.162.109.91", "bytes_sent": 7341, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:31:23.850134", "source_ip": "84.133.241.146", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:50:23.850141", "user": "user27", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:26:23.850152", "source_ip": "65.104.167.232", "destination_ip": "247.204.94.244", "bytes_sent": 62052, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:59:23.850162", "source_ip": "230.36.88.107", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:43:23.850170", "user": "user99", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:38:23.850176", "source_ip": "214.18.206.251", "destination_ip": "193.5.212.2", "bytes_sent": 22312, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:21:23.850187", "source_ip": "127.231.180.48", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:06:23.850194", "user": "user68", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:36:23.850201", "source_ip": "114.210.35.115", "destination_ip": "92.124.246.229", "bytes_sent": 13496, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:13:23.850211", "source_ip": "176.226.25.124", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:17:23.850234", "user": "user33", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:23:23.850245", "source_ip": "193.248.177.40", "destination_ip": "8.163.81.47", "bytes_sent": 20430, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:08:23.850255", "source_ip": "82.206.193.201", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:33:23.850263", "user": "user81", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:19:23.850270", "source_ip": "196.238.90.120", "destination_ip": "87.250.183.82", "bytes_sent": 55991, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:05:23.850300", "source_ip": "96.224.124.101", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:15:23.850311", "user": "user14", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T19:51:23.850317", "source_ip": "123.217.7.54", "destination_ip": "83.136.165.22", "bytes_sent": 11395, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:07:23.850328", "source_ip": "24.53.193.134", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:25:23.850336", "user": "user68", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:00:23.850343", "source_ip": "127.108.139.41", "destination_ip": "222.35.0.147", "bytes_sent": 53246, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:05:23.850353", "source_ip": "117.156.19.198", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:26:23.850361", "user": "user93", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T03:53:23.850367", "source_ip": "216.142.94.130", "destination_ip": "145.0.113.73", "bytes_sent": 33977, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:47:23.850378", "source_ip": "160.197.129.50", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:24:23.850386", "user": "user54", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:10:23.850392", "source_ip": "251.92.20.240", "destination_ip": "12.80.216.158", "bytes_sent": 11693, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:42:23.850402", "source_ip": "167.200.177.216", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:07:23.850410", "user": "user63", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T06:17:23.850416", "source_ip": "166.178.86.246", "destination_ip": "87.60.41.239", "bytes_sent": 57315, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:31:23.850426", "source_ip": "34.16.19.63", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:51:23.850434", "user": "user34", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T14:51:23.850441", "source_ip": "72.221.108.75", "destination_ip": "185.119.64.85", "bytes_sent": 27394, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:52:23.850451", "source_ip": "169.90.118.94", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:50:23.850459", "user": "user64", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:10:23.850466", "source_ip": "198.154.44.177", "destination_ip": "168.222.53.28", "bytes_sent": 28899, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:56:23.850476", "source_ip": "155.164.147.143", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:23:23.850483", "user": "user99", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T13:14:23.850490", "source_ip": "138.187.71.105", "destination_ip": "91.11.177.205", "bytes_sent": 17641, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:02:23.850501", "source_ip": "55.158.180.154", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:40:23.850509", "user": "user98", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:16:23.850515", "source_ip": "176.255.155.27", "destination_ip": "73.164.58.52", "bytes_sent": 3651, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:06:23.850526", "source_ip": "246.226.39.151", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:46:23.850534", "user": "user62", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:23:23.850541", "source_ip": "239.226.57.79", "destination_ip": "116.84.83.58", "bytes_sent": 47868, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:04:23.850551", "source_ip": "113.184.107.90", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:40:23.850559", "user": "user17", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T02:06:23.850566", "source_ip": "134.192.173.181", "destination_ip": "8.89.148.130", "bytes_sent": 48316, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:30:23.850576", "source_ip": "44.153.237.39", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:12:23.850585", "user": "user20", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T03:29:23.850591", "source_ip": "252.25.119.80", "destination_ip": "13.67.2.165", "bytes_sent": 26188, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:26:23.850602", "source_ip": "239.194.117.238", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:02:23.850609", "user": "user59", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T13:50:23.850616", "source_ip": "78.26.66.161", "destination_ip": "211.241.237.56", "bytes_sent": 31321, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:53:23.850627", "source_ip": "77.10.75.180", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:35:23.850634", "user": "user80", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:33:23.850641", "source_ip": "139.115.93.46", "destination_ip": "236.194.146.234", "bytes_sent": 56917, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:00:23.850651", "source_ip": "205.242.146.197", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:25:23.850659", "user": "user20", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:08:23.850666", "source_ip": "117.27.22.153", "destination_ip": "189.186.207.198", "bytes_sent": 59656, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:38:23.850676", "source_ip": "221.213.234.231", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:48:23.850684", "user": "user87", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:37:23.850691", "source_ip": "9.150.125.81", "destination_ip": "178.103.219.75", "bytes_sent": 47042, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:29:23.850701", "source_ip": "14.33.100.227", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:43:23.850709", "user": "user60", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T01:12:23.850715", "source_ip": "69.160.10.210", "destination_ip": "126.9.136.22", "bytes_sent": 3363, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:32:23.850726", "source_ip": "21.51.137.171", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:23:23.850733", "user": "user22", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:55:23.850757", "source_ip": "226.212.78.30", "destination_ip": "192.223.28.157", "bytes_sent": 30520, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:10:23.850771", "source_ip": "162.90.125.132", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:52:23.850780", "user": "user65", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T01:44:23.850786", "source_ip": "166.89.230.133", "destination_ip": "120.97.64.11", "bytes_sent": 40675, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:44:23.850796", "source_ip": "211.147.1.50", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:36:23.850804", "user": "user87", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T21:52:23.850811", "source_ip": "15.140.222.20", "destination_ip": "146.103.129.188", "bytes_sent": 52006, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:13:23.850821", "source_ip": "166.149.170.78", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:52:23.850829", "user": "user71", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:50:23.850835", "source_ip": "4.243.87.221", "destination_ip": "10.165.23.97", "bytes_sent": 41463, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:53:23.850846", "source_ip": "0.162.199.108", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:50:23.850854", "user": "user46", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:54:23.850861", "source_ip": "100.133.200.244", "destination_ip": "102.212.211.162", "bytes_sent": 8069, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:44:23.850871", "source_ip": "129.128.112.83", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:30:23.850879", "user": "user60", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T03:47:23.850885", "source_ip": "187.0.124.223", "destination_ip": "36.178.27.82", "bytes_sent": 63529, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:44:23.850896", "source_ip": "19.223.255.188", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:59:23.850903", "user": "user3", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:51:23.850910", "source_ip": "27.15.124.147", "destination_ip": "233.99.86.0", "bytes_sent": 64873, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:18:23.850920", "source_ip": "138.78.50.102", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:59:23.850928", "user": "user30", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:39:23.850934", "source_ip": "236.138.144.163", "destination_ip": "77.176.140.171", "bytes_sent": 50858, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:08:23.850944", "source_ip": "170.108.171.136", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:50:23.850952", "user": "user58", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:39:23.850959", "source_ip": "23.101.191.132", "destination_ip": "137.36.58.255", "bytes_sent": 58821, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T05:44:23.850969", "source_ip": "49.254.243.148", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:12:23.850977", "user": "user76", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:49:23.850984", "source_ip": "142.211.218.230", "destination_ip": "171.39.9.182", "bytes_sent": 60111, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:06:23.850994", "source_ip": "68.174.105.110", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:49:23.851002", "user": "user100", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:33:23.851009", "source_ip": "218.142.93.182", "destination_ip": "213.101.66.37", "bytes_sent": 14191, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:45:23.851019", "source_ip": "43.184.66.240", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:56:23.851027", "user": "user59", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:18:23.851034", "source_ip": "66.132.194.76", "destination_ip": "199.149.70.169", "bytes_sent": 34165, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:01:23.851044", "source_ip": "104.197.170.126", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:35:23.851052", "user": "user90", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:41:23.851058", "source_ip": "102.233.130.30", "destination_ip": "223.176.193.30", "bytes_sent": 16763, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:52:23.851069", "source_ip": "245.121.17.71", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:14:23.851077", "user": "user28", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:42:23.851083", "source_ip": "218.217.130.104", "destination_ip": "187.116.84.75", "bytes_sent": 46237, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:43:23.851093", "source_ip": "127.245.135.210", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:25:23.851101", "user": "user66", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T14:53:23.851108", "source_ip": "12.249.33.27", "destination_ip": "41.72.77.29", "bytes_sent": 54105, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:09:23.851118", "source_ip": "127.21.220.11", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:21:23.851126", "user": "user96", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T06:34:23.851132", "source_ip": "159.29.124.209", "destination_ip": "241.56.119.90", "bytes_sent": 44137, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:04:23.851143", "source_ip": "126.143.31.9", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:03:23.851151", "user": "user14", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:26:23.851157", "source_ip": "9.112.122.252", "destination_ip": "155.2.194.162", "bytes_sent": 1319, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:59:23.851168", "source_ip": "250.39.242.210", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:05:23.851176", "user": "user11", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T13:06:23.851182", "source_ip": "38.15.184.38", "destination_ip": "236.226.61.84", "bytes_sent": 15758, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:32:23.851194", "source_ip": "120.205.11.121", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:24:23.851227", "user": "user86", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:29:23.851242", "source_ip": "214.79.220.195", "destination_ip": "193.242.241.26", "bytes_sent": 42051, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:04:23.851257", "source_ip": "163.171.86.9", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:27:23.851267", "user": "user5", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T03:57:23.851276", "source_ip": "229.119.235.205", "destination_ip": "240.6.33.26", "bytes_sent": 18508, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:06:23.851290", "source_ip": "174.8.196.85", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:55:23.851302", "user": "user91", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:58:23.851311", "source_ip": "31.220.60.213", "destination_ip": "191.201.108.241", "bytes_sent": 65474, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:23:23.851327", "source_ip": "40.154.38.113", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:54:23.851340", "user": "user62", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:06:23.851347", "source_ip": "173.70.213.156", "destination_ip": "166.137.198.163", "bytes_sent": 23242, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:54:23.851358", "source_ip": "118.170.224.18", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T15:54:23.851366", "user": "user23", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:07:23.851373", "source_ip": "91.59.200.229", "destination_ip": "98.201.175.202", "bytes_sent": 26184, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:13:23.851383", "source_ip": "215.136.55.47", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:35:23.851391", "user": "user93", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T00:30:23.851397", "source_ip": "106.231.136.94", "destination_ip": "81.166.84.222", "bytes_sent": 7963, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:13:23.851408", "source_ip": "71.179.161.152", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:37:23.851415", "user": "user88", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:54:23.851422", "source_ip": "73.213.170.47", "destination_ip": "6.216.166.12", "bytes_sent": 51489, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:29:23.851433", "source_ip": "188.242.56.163", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:02:23.851441", "user": "user34", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T02:30:23.851447", "source_ip": "49.148.105.200", "destination_ip": "52.99.3.30", "bytes_sent": 25582, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:45:23.851457", "source_ip": "185.132.250.112", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:32:23.851465", "user": "user58", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T17:42:23.851471", "source_ip": "126.141.53.197", "destination_ip": "211.190.177.132", "bytes_sent": 5637, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:30:23.851482", "source_ip": "43.206.2.239", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:56:23.851490", "user": "user22", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T06:40:23.851496", "source_ip": "16.237.123.73", "destination_ip": "209.123.92.253", "bytes_sent": 20982, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:51:23.851507", "source_ip": "155.5.52.189", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:15:23.851515", "user": "user21", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:05:23.851521", "source_ip": "218.234.170.133", "destination_ip": "229.254.142.125", "bytes_sent": 45706, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:21:23.851531", "source_ip": "175.101.218.19", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:35:23.851539", "user": "user38", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T21:51:23.851546", "source_ip": "177.56.99.67", "destination_ip": "229.48.219.148", "bytes_sent": 31018, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:22:23.851556", "source_ip": "214.29.192.85", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:22:23.851564", "user": "user17", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T17:13:23.851570", "source_ip": "250.170.123.1", "destination_ip": "1.222.183.74", "bytes_sent": 26620, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:00:23.851580", "source_ip": "181.175.210.90", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:03:23.851588", "user": "user13", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T21:32:23.851595", "source_ip": "106.84.114.243", "destination_ip": "220.7.193.100", "bytes_sent": 3215, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:30:23.851605", "source_ip": "13.142.208.99", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:16:23.851612", "user": "user50", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:47:23.851619", "source_ip": "104.253.178.193", "destination_ip": "32.63.59.27", "bytes_sent": 22603, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T05:14:23.851629", "source_ip": "191.56.161.64", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:41:23.851637", "user": "user16", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:31:23.851644", "source_ip": "239.247.50.99", "destination_ip": "197.205.3.251", "bytes_sent": 11292, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:28:23.851654", "source_ip": "215.129.33.140", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:27:23.851661", "user": "user10", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:38:23.851668", "source_ip": "193.217.218.96", "destination_ip": "150.147.111.0", "bytes_sent": 61488, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:13:23.851678", "source_ip": "143.86.31.167", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:14:23.851686", "user": "user39", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T17:09:23.851692", "source_ip": "199.122.117.226", "destination_ip": "84.207.240.236", "bytes_sent": 37840, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:45:23.851723", "source_ip": "178.51.250.176", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:10:23.851734", "user": "user13", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:00:23.851741", "source_ip": "236.113.182.136", "destination_ip": "177.111.251.125", "bytes_sent": 57149, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:31:23.851752", "source_ip": "228.100.167.104", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:41:23.851759", "user": "user56", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:07:23.851766", "source_ip": "55.111.249.158", "destination_ip": "178.94.24.135", "bytes_sent": 26894, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:27:23.851776", "source_ip": "122.248.210.12", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:24:23.851784", "user": "user82", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:52:23.851791", "source_ip": "133.185.25.129", "destination_ip": "242.216.24.169", "bytes_sent": 52548, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:49:23.851801", "source_ip": "160.237.29.247", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:11:23.851809", "user": "user92", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:01:23.851816", "source_ip": "64.119.37.112", "destination_ip": "250.69.158.162", "bytes_sent": 28071, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:19:23.851826", "source_ip": "141.232.181.226", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:25:23.851834", "user": "user95", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:04:23.851841", "source_ip": "141.16.213.209", "destination_ip": "100.155.41.111", "bytes_sent": 51495, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:52:23.851851", "source_ip": "211.199.53.64", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:09:23.851859", "user": "user64", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:29:23.851865", "source_ip": "1.1.123.16", "destination_ip": "115.143.49.50", "bytes_sent": 15235, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:45:23.851876", "source_ip": "220.164.14.104", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:24:23.851883", "user": "user77", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:00:23.851890", "source_ip": "139.46.118.58", "destination_ip": "13.117.64.162", "bytes_sent": 53963, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:40:23.851902", "source_ip": "109.205.28.32", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:02:23.851914", "user": "user50", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T06:36:23.851924", "source_ip": "137.190.134.54", "destination_ip": "254.138.136.88", "bytes_sent": 17410, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:20:23.851941", "source_ip": "118.219.109.65", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:38:23.851953", "user": "user54", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:35:23.851963", "source_ip": "215.203.120.194", "destination_ip": "70.190.211.57", "bytes_sent": 18407, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:01:23.851977", "source_ip": "155.248.2.190", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:02:23.851985", "user": "user56", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:08:23.851992", "source_ip": "149.211.240.133", "destination_ip": "253.22.135.221", "bytes_sent": 3572, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:30:23.852002", "source_ip": "74.29.170.57", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T16:05:23.852010", "user": "user40", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:58:23.852016", "source_ip": "103.5.58.55", "destination_ip": "32.255.220.59", "bytes_sent": 4063, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:34:23.852026", "source_ip": "241.233.112.103", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:05:23.852034", "user": "user12", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:04:23.852041", "source_ip": "55.145.91.89", "destination_ip": "13.107.143.54", "bytes_sent": 49340, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:58:23.852051", "source_ip": "216.76.124.31", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:35:23.852059", "user": "user99", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:47:23.852065", "source_ip": "243.43.183.13", "destination_ip": "179.33.198.73", "bytes_sent": 54605, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:46:23.852075", "source_ip": "12.25.162.71", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:06:23.852083", "user": "user39", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:33:23.852090", "source_ip": "79.114.57.106", "destination_ip": "180.137.65.79", "bytes_sent": 56601, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:35:23.852100", "source_ip": "183.237.141.110", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:27:23.852108", "user": "user60", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:04:23.852114", "source_ip": "202.210.70.155", "destination_ip": "118.253.165.29", "bytes_sent": 20600, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:29:23.852125", "source_ip": "198.59.154.124", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:05:23.852132", "user": "user35", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:20:23.852139", "source_ip": "109.36.226.20", "destination_ip": "179.28.137.107", "bytes_sent": 42811, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:59:23.852149", "source_ip": "214.45.135.33", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:08:23.852157", "user": "user32", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:03:23.852163", "source_ip": "247.29.185.217", "destination_ip": "174.238.242.188", "bytes_sent": 27769, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:52:23.852173", "source_ip": "90.135.119.84", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:31:23.852181", "user": "user55", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T21:25:23.852208", "source_ip": "40.188.78.129", "destination_ip": "184.195.146.138", "bytes_sent": 16593, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:19:23.852222", "source_ip": "208.187.205.10", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:48:23.852231", "user": "user43", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:59:23.852237", "source_ip": "226.131.71.67", "destination_ip": "123.170.95.232", "bytes_sent": 19447, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:23:23.852248", "source_ip": "18.101.213.200", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:56:23.852256", "user": "user60", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:26:23.852262", "source_ip": "35.127.187.160", "destination_ip": "252.150.172.224", "bytes_sent": 29488, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:54:23.852272", "source_ip": "105.80.153.218", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:27:23.852280", "user": "user13", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T17:41:23.852287", "source_ip": "238.66.182.245", "destination_ip": "133.144.198.150", "bytes_sent": 6618, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:48:23.852297", "source_ip": "207.43.29.141", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:22:23.852305", "user": "user10", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T07:34:23.852311", "source_ip": "83.183.23.93", "destination_ip": "212.59.201.224", "bytes_sent": 40267, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:52:23.852327", "source_ip": "249.221.83.84", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:25:23.852339", "user": "user13", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T17:53:23.852348", "source_ip": "201.45.158.204", "destination_ip": "66.97.72.67", "bytes_sent": 56389, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:13:23.852365", "source_ip": "72.50.170.130", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:25:23.852380", "user": "user3", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:21:23.852392", "source_ip": "255.16.241.6", "destination_ip": "0.202.224.115", "bytes_sent": 18293, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:27:23.852405", "source_ip": "69.119.6.171", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:47:23.852413", "user": "user57", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:23:23.852419", "source_ip": "116.110.228.136", "destination_ip": "240.51.236.215", "bytes_sent": 43968, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:59:23.852430", "source_ip": "54.1.213.48", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T15:53:23.852437", "user": "user47", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:44:23.852444", "source_ip": "122.67.134.94", "destination_ip": "199.144.10.187", "bytes_sent": 18486, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T05:49:23.852454", "source_ip": "222.249.9.58", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:36:23.852462", "user": "user6", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T11:30:23.852469", "source_ip": "164.226.212.120", "destination_ip": "45.135.180.58", "bytes_sent": 32173, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:25:23.852479", "source_ip": "147.208.62.54", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:30:23.852487", "user": "user49", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:40:23.852493", "source_ip": "16.204.167.67", "destination_ip": "40.50.151.133", "bytes_sent": 11685, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:48:23.852504", "source_ip": "230.33.190.162", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:40:23.852512", "user": "user48", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T09:53:23.852518", "source_ip": "173.124.215.242", "destination_ip": "133.13.210.197", "bytes_sent": 35707, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:54:23.852529", "source_ip": "4.64.178.136", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:39:23.852536", "user": "user58", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T07:46:23.852542", "source_ip": "171.249.92.23", "destination_ip": "187.30.187.60", "bytes_sent": 41385, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:13:23.852553", "source_ip": "165.167.214.187", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:25:23.852560", "user": "user17", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:17:23.852567", "source_ip": "67.63.146.154", "destination_ip": "195.177.179.188", "bytes_sent": 58652, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:15:23.852577", "source_ip": "234.196.240.38", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:26:23.852585", "user": "user8", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T12:44:23.852592", "source_ip": "161.126.75.96", "destination_ip": "198.245.21.5", "bytes_sent": 61047, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:50:23.852602", "source_ip": "24.127.159.68", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:48:23.852609", "user": "user11", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:37:23.852615", "source_ip": "89.173.232.226", "destination_ip": "252.163.166.8", "bytes_sent": 13020, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:15:23.852626", "source_ip": "225.49.225.220", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:38:23.852634", "user": "user48", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:41:23.852641", "source_ip": "203.246.31.9", "destination_ip": "94.170.41.223", "bytes_sent": 39838, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:30:23.852650", "source_ip": "222.216.22.55", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:20:23.852658", "user": "user63", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T13:15:23.852665", "source_ip": "72.10.88.82", "destination_ip": "146.110.140.123", "bytes_sent": 61917, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:30:23.852675", "source_ip": "127.239.136.139", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:03:23.852706", "user": "user28", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:15:23.852716", "source_ip": "51.168.247.198", "destination_ip": "14.208.8.1", "bytes_sent": 5491, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:22:23.852727", "source_ip": "62.219.211.227", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:36:23.852735", "user": "user33", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T03:47:23.852742", "source_ip": "129.146.167.178", "destination_ip": "60.193.225.235", "bytes_sent": 34297, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:47:23.852752", "source_ip": "240.243.176.160", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:14:23.852759", "user": "user32", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T21:43:23.852766", "source_ip": "238.60.190.169", "destination_ip": "61.195.176.12", "bytes_sent": 13133, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:55:23.852776", "source_ip": "94.69.178.157", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:17:23.852784", "user": "user58", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T15:55:23.852790", "source_ip": "239.239.182.166", "destination_ip": "25.52.73.80", "bytes_sent": 40192, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:22:23.852801", "source_ip": "204.198.255.135", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:17:23.852808", "user": "user77", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:45:23.852815", "source_ip": "214.203.183.1", "destination_ip": "13.180.173.15", "bytes_sent": 13385, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:00:23.852825", "source_ip": "1.190.205.72", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:58:23.852832", "user": "user18", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T10:18:23.852839", "source_ip": "122.251.135.54", "destination_ip": "235.181.225.223", "bytes_sent": 24425, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:24:23.852849", "source_ip": "69.86.142.96", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:21:23.852857", "user": "user14", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T21:05:23.852863", "source_ip": "74.162.2.250", "destination_ip": "167.175.150.33", "bytes_sent": 33317, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:29:23.852874", "source_ip": "119.44.233.255", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:03:23.852882", "user": "user11", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T11:14:23.852888", "source_ip": "39.217.21.49", "destination_ip": "221.244.241.228", "bytes_sent": 44571, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:01:23.852898", "source_ip": "108.155.137.5", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:43:23.852906", "user": "user3", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T03:44:23.852913", "source_ip": "95.119.241.31", "destination_ip": "39.82.104.123", "bytes_sent": 58677, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:59:23.852922", "source_ip": "115.8.0.189", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:21:23.852930", "user": "user66", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T01:23:23.852937", "source_ip": "209.87.75.158", "destination_ip": "9.121.208.122", "bytes_sent": 5929, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:15:23.852947", "source_ip": "152.8.26.69", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:43:23.852955", "user": "user19", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:19:23.852961", "source_ip": "118.201.80.81", "destination_ip": "116.83.68.145", "bytes_sent": 62673, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:41:23.852971", "source_ip": "189.95.144.138", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:10:23.852978", "user": "user38", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T16:51:23.852985", "source_ip": "201.112.250.170", "destination_ip": "46.173.131.4", "bytes_sent": 41461, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:08:23.852995", "source_ip": "111.163.207.80", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:45:23.853003", "user": "user83", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:14:23.853009", "source_ip": "169.164.122.154", "destination_ip": "80.218.187.186", "bytes_sent": 29797, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:21:23.853019", "source_ip": "160.46.251.35", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:35:23.853026", "user": "user73", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T15:45:23.853033", "source_ip": "99.203.244.255", "destination_ip": "222.216.181.121", "bytes_sent": 9411, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:45:23.853043", "source_ip": "166.77.220.220", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:00:23.853051", "user": "user88", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T15:29:23.853058", "source_ip": "247.197.104.222", "destination_ip": "69.150.38.101", "bytes_sent": 62782, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:23:23.853068", "source_ip": "239.54.57.55", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:30:23.853076", "user": "user98", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:08:23.853082", "source_ip": "205.127.75.21", "destination_ip": "244.253.121.181", "bytes_sent": 47896, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T22:19:23.853092", "source_ip": "86.41.24.150", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:39:23.853100", "user": "user49", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:20:23.853107", "source_ip": "80.161.148.119", "destination_ip": "225.81.224.125", "bytes_sent": 27731, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:20:23.853117", "source_ip": "203.59.126.224", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:02:23.853124", "user": "user75", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T12:38:23.853131", "source_ip": "99.51.213.143", "destination_ip": "106.91.5.99", "bytes_sent": 56516, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:24:23.853158", "source_ip": "45.21.107.74", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:26:23.853168", "user": "user60", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:18:23.853175", "source_ip": "76.85.96.36", "destination_ip": "50.52.40.54", "bytes_sent": 60847, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:30:23.853185", "source_ip": "167.86.144.234", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:21:23.853193", "user": "user66", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T14:05:23.853200", "source_ip": "230.112.150.159", "destination_ip": "52.233.62.158", "bytes_sent": 48104, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T12:38:23.853210", "source_ip": "79.230.121.57", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:20:23.853217", "user": "user44", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:38:23.853224", "source_ip": "97.154.135.124", "destination_ip": "205.211.221.123", "bytes_sent": 4840, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:01:23.853234", "source_ip": "1.101.199.253", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:37:23.853242", "user": "user79", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T19:29:23.853248", "source_ip": "140.206.49.114", "destination_ip": "124.114.214.77", "bytes_sent": 19578, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:38:23.853258", "source_ip": "152.19.160.96", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:31:23.853266", "user": "user80", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:14:23.853272", "source_ip": "47.172.124.230", "destination_ip": "174.238.215.242", "bytes_sent": 20622, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:04:23.853283", "source_ip": "233.133.70.102", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:41:23.853290", "user": "user75", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T19:08:23.853297", "source_ip": "16.169.24.29", "destination_ip": "43.227.80.235", "bytes_sent": 47661, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:13:23.853307", "source_ip": "91.99.78.195", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:11:23.853637", "user": "user6", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:40:23.853649", "source_ip": "129.216.233.5", "destination_ip": "217.38.61.0", "bytes_sent": 24662, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:10:23.853660", "source_ip": "91.136.219.111", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:58:23.853668", "user": "user88", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:03:23.853675", "source_ip": "180.193.195.111", "destination_ip": "84.169.86.10", "bytes_sent": 14359, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:26:23.853767", "source_ip": "196.197.238.0", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:32:23.853776", "user": "user42", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T18:14:23.853783", "source_ip": "253.113.149.13", "destination_ip": "90.180.185.234", "bytes_sent": 30146, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:26:23.853793", "source_ip": "85.36.119.146", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:54:23.853801", "user": "user22", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T00:32:23.853807", "source_ip": "21.187.152.241", "destination_ip": "136.182.13.98", "bytes_sent": 9256, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T09:56:23.853817", "source_ip": "145.212.169.71", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:22:23.853825", "user": "user34", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T00:34:23.853831", "source_ip": "31.58.172.169", "destination_ip": "36.58.113.64", "bytes_sent": 29755, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:53:23.853841", "source_ip": "125.37.237.27", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:45:23.853849", "user": "user35", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:21:23.853856", "source_ip": "151.50.115.112", "destination_ip": "245.224.81.192", "bytes_sent": 42845, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:23:23.853867", "source_ip": "85.159.131.40", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:33:23.853874", "user": "user89", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:52:23.853881", "source_ip": "26.207.140.107", "destination_ip": "211.249.164.212", "bytes_sent": 58067, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:24:23.853891", "source_ip": "177.40.121.184", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:26:23.853899", "user": "user52", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T10:31:23.853905", "source_ip": "31.4.175.74", "destination_ip": "23.147.31.215", "bytes_sent": 1726, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:20:23.853916", "source_ip": "165.7.234.108", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:51:23.853924", "user": "user20", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T19:48:23.853930", "source_ip": "37.53.236.254", "destination_ip": "151.49.3.60", "bytes_sent": 33006, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:04:23.853940", "source_ip": "108.121.185.231", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:56:23.853948", "user": "user49", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T08:18:23.853954", "source_ip": "168.203.126.213", "destination_ip": "236.194.76.7", "bytes_sent": 9287, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:09:23.853964", "source_ip": "239.226.90.230", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T03:13:23.853972", "user": "user53", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T07:46:23.853978", "source_ip": "193.43.134.135", "destination_ip": "70.167.57.177", "bytes_sent": 9875, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:07:23.853988", "source_ip": "86.191.150.150", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:49:23.853996", "user": "user18", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T16:58:23.854159", "source_ip": "229.86.182.77", "destination_ip": "66.60.55.110", "bytes_sent": 35941, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:51:23.854179", "source_ip": "88.132.178.3", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:53:23.854188", "user": "user52", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:04:23.854195", "source_ip": "180.80.12.123", "destination_ip": "149.13.176.8", "bytes_sent": 64269, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:37:23.854205", "source_ip": "244.204.47.172", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:58:23.854220", "user": "user73", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T05:17:23.854231", "source_ip": "168.195.53.112", "destination_ip": "167.204.23.201", "bytes_sent": 33237, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:40:23.854241", "source_ip": "177.236.224.97", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:41:23.854249", "user": "user25", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:48:23.854255", "source_ip": "250.250.26.111", "destination_ip": "12.58.146.99", "bytes_sent": 33114, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:12:23.854265", "source_ip": "190.201.189.58", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:23:23.854274", "user": "user6", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T09:19:23.854284", "source_ip": "147.58.246.243", "destination_ip": "202.196.73.251", "bytes_sent": 57895, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T19:44:23.854302", "source_ip": "106.116.84.97", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:19:23.854313", "user": "user40", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:42:23.854320", "source_ip": "75.2.220.164", "destination_ip": "24.219.253.212", "bytes_sent": 2248, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:12:23.854331", "source_ip": "45.121.59.143", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T18:55:23.854339", "user": "user17", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:27:23.854345", "source_ip": "94.162.132.49", "destination_ip": "25.87.205.108", "bytes_sent": 11895, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:37:23.854356", "source_ip": "121.234.168.245", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:38:23.854364", "user": "user56", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T09:35:23.854370", "source_ip": "186.56.111.91", "destination_ip": "79.102.85.10", "bytes_sent": 36006, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:54:23.854381", "source_ip": "206.95.188.4", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T08:07:23.854388", "user": "user21", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:39:23.854395", "source_ip": "121.225.229.59", "destination_ip": "86.141.153.205", "bytes_sent": 56021, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:58:23.854405", "source_ip": "136.39.65.126", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:36:23.854412", "user": "user44", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T00:27:23.854420", "source_ip": "4.214.125.18", "destination_ip": "181.121.232.123", "bytes_sent": 42369, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T05:37:23.854434", "source_ip": "251.35.139.239", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T00:38:23.854446", "user": "user8", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:35:23.854457", "source_ip": "88.127.245.210", "destination_ip": "133.212.199.207", "bytes_sent": 32840, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:22:23.854468", "source_ip": "203.148.245.68", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:13:23.854476", "user": "user38", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:43:23.854483", "source_ip": "141.232.101.127", "destination_ip": "164.129.204.62", "bytes_sent": 14556, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T00:35:23.854493", "source_ip": "53.30.55.58", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T05:47:23.854501", "user": "user97", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:15:23.854507", "source_ip": "231.174.94.200", "destination_ip": "80.75.93.161", "bytes_sent": 12477, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:51:23.854518", "source_ip": "230.218.172.202", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:09:23.854525", "user": "user29", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T17:50:23.854532", "source_ip": "36.8.53.242", "destination_ip": "120.199.31.26", "bytes_sent": 20467, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T05:34:23.854542", "source_ip": "240.140.31.155", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T12:12:23.854549", "user": "user9", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:55:23.854556", "source_ip": "112.187.175.135", "destination_ip": "250.125.87.76", "bytes_sent": 10983, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:36:23.854570", "source_ip": "134.167.92.35", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:12:23.854582", "user": "user23", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:42:23.854592", "source_ip": "129.212.6.129", "destination_ip": "24.57.226.122", "bytes_sent": 1785, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:20:23.854606", "source_ip": "74.20.178.149", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T15:52:23.854617", "user": "user18", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:09:23.854627", "source_ip": "176.50.199.217", "destination_ip": "101.76.32.238", "bytes_sent": 35354, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:43:23.854640", "source_ip": "28.194.148.62", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:56:23.854652", "user": "user48", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T20:20:23.854663", "source_ip": "248.15.83.120", "destination_ip": "236.120.93.79", "bytes_sent": 6735, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T15:11:23.854679", "source_ip": "202.144.231.203", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:57:23.854734", "user": "user66", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:40:23.854751", "source_ip": "215.95.251.254", "destination_ip": "145.216.231.190", "bytes_sent": 30403, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:33:23.854769", "source_ip": "12.109.134.118", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T20:42:23.854782", "user": "user69", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T13:36:23.854793", "source_ip": "72.146.28.167", "destination_ip": "37.139.195.20", "bytes_sent": 23337, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:40:23.854807", "source_ip": "56.8.179.83", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:52:23.854816", "user": "user8", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T15:48:23.854822", "source_ip": "126.62.96.186", "destination_ip": "160.174.254.136", "bytes_sent": 5246, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:32:23.854833", "source_ip": "15.22.181.189", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:05:23.854841", "user": "user6", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:47:23.854848", "source_ip": "133.69.58.150", "destination_ip": "41.20.26.230", "bytes_sent": 63444, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:07:23.854858", "source_ip": "179.107.101.243", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T02:29:23.854866", "user": "user90", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T19:01:23.854873", "source_ip": "61.27.72.59", "destination_ip": "80.221.188.215", "bytes_sent": 5703, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T15:53:23.854883", "source_ip": "160.213.160.168", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T15:32:23.854891", "user": "user5", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T08:08:23.854897", "source_ip": "250.231.65.137", "destination_ip": "113.84.202.112", "bytes_sent": 9856, "protocol": "UDP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T07:36:23.854907", "source_ip": "214.134.178.178", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:53:23.854915", "user": "user73", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T13:47:23.854921", "source_ip": "218.25.201.95", "destination_ip": "51.148.25.2", "bytes_sent": 37885, "protocol": "TCP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T10:13:23.854932", "source_ip": "12.37.173.212", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:52:23.854939", "user": "user65", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:15:23.854946", "source_ip": "231.108.116.98", "destination_ip": "250.137.147.198", "bytes_sent": 53488, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:51:23.854956", "source_ip": "247.161.97.181", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:59:23.854964", "user": "user45", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T11:05:23.854970", "source_ip": "253.212.164.29", "destination_ip": "34.80.170.209", "bytes_sent": 8703, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T02:52:23.854980", "source_ip": "153.124.181.222", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:35:23.854988", "user": "user21", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T22:00:23.854994", "source_ip": "231.232.6.55", "destination_ip": "233.228.57.96", "bytes_sent": 26964, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T06:05:23.855005", "source_ip": "40.129.109.74", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:10:23.855013", "user": "user8", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T14:31:23.855019", "source_ip": "66.46.9.32", "destination_ip": "86.105.230.8", "bytes_sent": 33322, "protocol": "ICMP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T04:13:23.855029", "source_ip": "159.94.51.82", "alert_type": "DDoS", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:43:23.855037", "user": "user62", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:10:23.855043", "source_ip": "192.30.78.136", "destination_ip": "180.77.193.168", "bytes_sent": 22514, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T21:36:23.855053", "source_ip": "80.30.12.108", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:49:23.855061", "user": "user67", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:22:23.855068", "source_ip": "133.197.138.50", "destination_ip": "235.152.123.197", "bytes_sent": 19501, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T13:51:23.855078", "source_ip": "39.217.122.120", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:02:23.855085", "user": "user2", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T05:38:23.855092", "source_ip": "105.42.61.240", "destination_ip": "66.4.124.9", "bytes_sent": 15227, "protocol": "UDP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T08:22:23.855102", "source_ip": "75.199.135.44", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T19:38:23.855109", "user": "user21", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:29:23.855116", "source_ip": "205.253.97.19", "destination_ip": "153.51.213.5", "bytes_sent": 62004, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T14:02:23.855126", "source_ip": "48.67.201.103", "alert_type": "DDoS", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:49:23.855133", "user": "user89", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T23:01:23.855139", "source_ip": "32.131.107.94", "destination_ip": "235.240.119.164", "bytes_sent": 28799, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:45:23.855150", "source_ip": "72.158.98.97", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:50:23.855157", "user": "user29", "auth_method": "Biometrics", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:23:23.855164", "source_ip": "75.251.146.166", "destination_ip": "182.44.56.40", "bytes_sent": 40416, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-07T01:26:23.855174", "source_ip": "13.37.95.164", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T11:28:23.855181", "user": "user39", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T07:08:23.855188", "source_ip": "200.1.236.65", "destination_ip": "74.162.51.71", "bytes_sent": 10097, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:54:23.855220", "source_ip": "167.133.123.111", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T14:07:23.855232", "user": "user67", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T15:37:23.855239", "source_ip": "238.56.126.239", "destination_ip": "69.50.75.30", "bytes_sent": 29449, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:33:23.855250", "source_ip": "26.125.154.0", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:48:23.855257", "user": "user53", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:48:23.855264", "source_ip": "197.116.133.238", "destination_ip": "235.20.159.122", "bytes_sent": 52260, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-07T03:09:23.855274", "source_ip": "131.66.17.101", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:09:23.855282", "user": "user27", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T02:24:23.855289", "source_ip": "250.177.241.222", "destination_ip": "29.48.148.23", "bytes_sent": 35171, "protocol": "TCP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:19:23.855299", "source_ip": "89.172.59.28", "alert_type": "Unauthorized Access", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:07:23.855307", "user": "user20", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T09:56:23.855314", "source_ip": "33.232.1.105", "destination_ip": "1.209.51.100", "bytes_sent": 20318, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T23:15:23.855324", "source_ip": "89.230.69.85", "alert_type": "DDoS", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T01:11:23.855332", "user": "user85", "auth_method": "Token", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T20:37:23.855339", "source_ip": "0.46.105.153", "destination_ip": "248.138.9.118", "bytes_sent": 22589, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:25:23.855349", "source_ip": "138.126.237.2", "alert_type": "Unauthorized Access", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T10:32:23.855357", "user": "user6", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:05:23.855363", "source_ip": "41.158.71.78", "destination_ip": "32.124.106.59", "bytes_sent": 11536, "protocol": "ICMP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-07T11:48:23.855374", "source_ip": "15.50.228.105", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T22:52:23.855381", "user": "user93", "auth_method": "Password", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T04:00:23.855388", "source_ip": "22.100.52.57", "destination_ip": "43.56.93.132", "bytes_sent": 54215, "protocol": "UDP", "flag": "ACK"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:14:23.855398", "source_ip": "79.190.22.240", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T09:52:23.855406", "user": "user38", "auth_method": "Password", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T04:51:23.855412", "source_ip": "151.183.254.81", "destination_ip": "111.221.54.113", "bytes_sent": 2212, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T18:18:23.855423", "source_ip": "154.97.250.68", "alert_type": "Data Leak", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T23:59:23.855431", "user": "user16", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-07T12:22:23.855437", "source_ip": "251.0.254.156", "destination_ip": "7.47.78.137", "bytes_sent": 18519, "protocol": "UDP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:10:23.855447", "source_ip": "230.237.2.24", "alert_type": "Malware", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-06T21:11:23.855454", "user": "user92", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T18:28:23.855461", "source_ip": "172.35.126.233", "destination_ip": "249.212.31.119", "bytes_sent": 60176, "protocol": "ICMP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:39:23.855471", "source_ip": "182.90.24.230", "alert_type": "Unauthorized Access", "severity": "Low"}
+{"type": "auth_record", "timestamp": "2023-11-07T04:06:23.855478", "user": "user22", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T08:52:23.855485", "source_ip": "85.128.155.202", "destination_ip": "217.93.192.47", "bytes_sent": 293, "protocol": "TCP", "flag": "RST"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:01:23.855495", "source_ip": "236.74.157.104", "alert_type": "Data Leak", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T06:59:23.855502", "user": "user26", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-07T02:29:23.855509", "source_ip": "63.188.89.235", "destination_ip": "219.8.80.119", "bytes_sent": 7182, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T17:20:23.855519", "source_ip": "213.55.41.137", "alert_type": "Malware", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-06T17:45:23.855527", "user": "user38", "auth_method": "Token", "success": true}
+{"type": "network_log", "timestamp": "2023-11-06T23:28:23.855534", "source_ip": "109.76.142.150", "destination_ip": "171.15.25.75", "bytes_sent": 21176, "protocol": "TCP", "flag": "SYN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T16:40:23.855544", "source_ip": "94.216.75.182", "alert_type": "Data Leak", "severity": "High"}
+{"type": "auth_record", "timestamp": "2023-11-07T13:15:23.855552", "user": "user87", "auth_method": "Biometrics", "success": false}
+{"type": "network_log", "timestamp": "2023-11-06T22:06:23.855559", "source_ip": "132.132.207.212", "destination_ip": "159.13.45.34", "bytes_sent": 6231, "protocol": "ICMP", "flag": "FIN"}
+{"type": "ids_alert", "timestamp": "2023-11-06T20:46:23.855569", "source_ip": "182.70.31.184", "alert_type": "Malware", "severity": "Medium"}
+{"type": "auth_record", "timestamp": "2023-11-07T07:19:23.855576", "user": "user100", "auth_method": "Biometrics", "success": true}
